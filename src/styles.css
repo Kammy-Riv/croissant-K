@@ -1,23 +1,24 @@
 body {
-    background: #FFD384
+  background: #ffd384;
 }
 
-h1, p {
-    text-align: center;
+h1,
+p {
+  text-align: center;
 }
 
 footer {
-    text-align: center;
+  text-align: center;
 }
 
 footer a {
-    margin: 0 10px;
-    color: #D63447
+  margin: 0 10px;
+  color: #d63447;
 }
 
 .croissant-photo {
-   max-width: 100%;
-   border-radius: 10px; 
-   display: block;
-   margin: 30px auto;
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
